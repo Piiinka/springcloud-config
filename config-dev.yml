@@ -1,1 +1,2 @@
-config: hello1
+config: 
+ info: hello1
